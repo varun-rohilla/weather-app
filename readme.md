@@ -18,3 +18,6 @@ SkyForecast is a simple weather forecasting wev application built with HTML, CSS
     - JavaScript
 - **APIs**:
     - OpenWeatherMap API for fetching real-time weather data.    
+
+## Demo:
+You can view the live demo [here](https://skyforecast-weather-app.netlify.app/)
