@@ -8,7 +8,7 @@ SkyForecast is a simple weather forecasting wev application built with HTML, CSS
 - **Weather Details**: Displays current temperature, humidity, and wind speed.
 - **Weather Icons**: The app dynamically changes the weather icon based on conditions (e.g., Clear, Rain, etc.).
 - **Responsive Design**: Works seamlessly across devices, from mobile phones to desktops.
-- **Error Handling**: In case of an incorrect city name, an error message is displayed.
+- **Error Handling**: In case of an incorrect city name, an error message is displayed. 
 
 ## Tech Stack
 
